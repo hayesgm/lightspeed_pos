@@ -40,7 +40,7 @@ module Lightspeed
       Department: :hash,
       ItemAttributes: :hash,
       # ItemMatrix: :hash,
-      # Images: :hash,
+      Images: :hash,
       Manufacturer: :hash,
       Note: :hash,
       ItemECommerce: :hash,
