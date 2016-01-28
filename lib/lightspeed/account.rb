@@ -7,6 +7,7 @@ require_relative 'item_attribute_sets'
 require_relative 'images'
 require_relative 'inventories'
 require_relative 'orders'
+require_relative 'payment_types'
 require_relative 'sales'
 require_relative 'shops'
 require_relative 'vendors'
@@ -27,6 +28,7 @@ module Lightspeed
       :ItemAttributeSets,
       :Items,
       :Orders,
+      :PaymentTypes,
       :Sales,
       :Shops,
       :Vendors
